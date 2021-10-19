@@ -1,6 +1,9 @@
 # ecommerce
 
 A new Flutter project.
+for the resources i mean the back end of this app i used https://github.com/Hadir-05/E-commerce-web-application-with-JEE-JPA-and-widfly-server-/tree/master app like a back end 
+(connect a JEE app with a flutter app)
+Enjoy :)
 
 ## Getting Started
 
